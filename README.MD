@@ -1,0 +1,1 @@
+### 一个spring boot admin server端，用来测试spring boot admin client\server
